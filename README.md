@@ -1,4 +1,4 @@
-# mobile-phone-review-summarizer
+# Mobile-Phone-Review-Summarizer
 # Project Description:
 
 The project is a sentiment analysis and chatbot application focused on analyzing customer reviews for various mobile phone brands. It utilizes natural language processing techniques to summarize positive and negative aspects of the reviews and provides feedback through a chatbot interface. The goal is to help users understand common sentiments expressed in reviews and interactively engage with the chatbot to discuss different aspects of mobile phones.
@@ -25,4 +25,7 @@ The project is a sentiment analysis and chatbot application focused on analyzing
 
 ![image](https://github.com/MENAKAANBUKKARASU/mobile-phone-review-summarizer/assets/113598770/da8fb2f4-3898-4fcc-99fb-6a5166ec7472)
 
+# Authors
+👤 Menaka A
+👤 Nikitha P
 
